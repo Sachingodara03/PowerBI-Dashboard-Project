@@ -1,4 +1,4 @@
-# PowerBI-Project
+# PowerBI-Dashboard-Project
 This repository contains important files and data related to Microsoft Power BI project.
 In this project we analysed Ecommores sales data and created dashboard by using PowerBI.
 Poject Learnings:
